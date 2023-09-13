@@ -13,10 +13,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-We plan on meeting weekly on Tuesdays 4:30pm-6:00pm to present/discuss papers that broadly fall under the category of Algorithms/Theoretical CS. You are all invited. Please mark your calendars, if you plan on attending. 
+We plan on meeting weekly on Wednesday 5:15 pm - 6:15 pm, at MH 269, to read a machine learning book [Mathematical Analysis of Machine Learning Algorithms](https://tongzhang-ml.org/lt-book.html) together. 
 
-The theme for this semester is "Learning-augmented online algorithms". 
 
-This page [Algorithms with Predictions](https://algorithms-with-predictions.github.io/) which tracks recent research in "Algorithms with Predictions" lists 158 papers at the moment on a wide range of topics. 
 
 
