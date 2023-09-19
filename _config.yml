@@ -123,9 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Algorithms with Predictions # blog_name will be displayed in your blog page
+blog_name: ML Reading # blog_name will be displayed in your blog page
 blog_nav_title: Seminar # your blog must have a title for it to be displayed in the nav bar
-blog_description: Weekly meetings on Wednesday 5:15-6:15 pm at 269 MH. 
+blog_description: Weekly meetings on Thursday 5:15-6:15 pm at 269 MH. 
 permalink: /blog/:year/:title/
 future: true
 # Pagination
